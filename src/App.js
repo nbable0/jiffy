@@ -138,7 +138,7 @@ class App extends Component {
           {/*stack of images*/}
           <input
             className="input grid-item"
-            placeholder="type somthing"
+            placeholder="type something"
             onChange={this.handleChange}
             onKeyPress={this.handleKeyPress}
             value={searchTerm}
